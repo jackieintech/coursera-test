@@ -1,0 +1,14 @@
+body {
+	font-size: 16px;
+	color: #FFFFFF;
+	background-color: lightgray;
+	font-family: Avenir;
+}
+
+/** Header **/
+#header-nav {
+	background-color: pink;
+	border-radius: 0;
+	border: 0;
+}
+
